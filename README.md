@@ -1,2 +1,2 @@
 # hello-world
-A repository for just learning and testing purpose
+A repository for just learning and testing purpose.
