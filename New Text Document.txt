@@ -1,0 +1,1 @@
+This is a text file. All this is done just for testing some Git features.
