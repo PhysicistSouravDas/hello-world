@@ -1,3 +1,5 @@
 This is a text file. All this is done just for testing some Git features.
 
 This text line was added via the testing branch.
+
+After 4 years a new line was added. 
